@@ -8,15 +8,15 @@
 
 🥨 셋팅
 √ Project name: ... vue-project  
-√ Add TypeScript? ... <span style="color: blue">No</span> / Yes  
-√ Add JSX Support? ... No / <span style="color: blue">Yes</span>  
+√ Add TypeScript? ... `No` / Yes  
+√ Add JSX Support? ... No /`Yes`
 √ Add Vue Router for Single Page Application development? ...  
-No / <span style="color: blue">Yes</span>  
-√ Add Pinia for state management? ... <span style="color: blue">No</span> / Yes  
-√ Add Vitest for Unit Testing? ... <span style="color: blue">No</span> / Yes  
-√ Add an End-to-End Testing Solution? » <span style="color: blue">No</span>  
-√ Add ESLint for code quality? ... clsNo / <span style="color: blue">Yes</span>  
-√ Add Prettier for code formatting? ... No / <span style="color: blue">Yes</span>
+No / `Yes`  
+√ Add Pinia for state management? ... `No` / Yes  
+√ Add Vitest for Unit Testing? ... `No` / Yes  
+√ Add an End-to-End Testing Solution? » `No`  
+√ Add ESLint for code quality? ... clsNo / `Yes`
+√ Add Prettier for code formatting? ... No / `Yes`
 
 🥨 폴더 이동
 `cd vue-project`
