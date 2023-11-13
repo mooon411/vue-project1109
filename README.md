@@ -55,4 +55,4 @@ lenis.js란 javascript로 작성 된 오픈소스 웹 프레임 워크입니다.
 웹페이지에서 부드러운 스크롤을 가능하게하는 라이브러리입니다. 경량(~3KB), 빠른 스크롤을 지원하며 다른 애니메이션 라이브러리들과도 잘 연동되는 장점이 있어 많은 주목을 받고있는 라이브러리입니다.
 
 ## 배포
-https://vercel.com/zeroins-projects
+https://vue-project1109.vercel.app/
